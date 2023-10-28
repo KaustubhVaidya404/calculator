@@ -1,4 +1,4 @@
-# Project Name
+# Calculator
 
 The Flutter Mobile Calculator App is a powerful and user-friendly tool designed to simplify your everyday calculations. With a sleek and intuitive user interface, this mobile calculator app provides a quick and efficient way to perform mathematical operations on your smartphone or tablet.
 
